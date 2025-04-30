@@ -1,0 +1,18 @@
+@charset "UTF-8";
+ body {
+            background: #121212; /* Attractive Gradient */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full viewport height */
+            margin: 0;
+        }
+ .container {
+ 			background-color:#1E1E1E;
+            color: #FFFFFF; 
+            border: 2px white solid;         
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
